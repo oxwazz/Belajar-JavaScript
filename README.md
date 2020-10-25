@@ -1,8 +1,9 @@
 # Belajar-JavaScript
 
-## Synchronous dan Asynchronous
+### Synchronous dan Asynchronous
 Dalam dunia programming istilah tersebut diguakan untuk membedakan cara mengeksekusi perintah dalam kodingan.
-**Syncronous** adalah cara mengeksekusi kode dengan cara mengurutkan.
+
+- **Synchronous** adalah cara mengeksekusi kode dengan cara mengurutkan.
 Contoh:
 
 ```
@@ -20,7 +21,7 @@ Coder
 
 Output dari kode diatas dijalankan dengan sesusai urutan, perintah kode tersebut dapat dijalankan setelah perintah sebelumnya selesai. Hal ini dapat disebut sebagai proses **Synchronous** atau teknik **blocking**.
 
-**Asynchronous** adalah cara mengekseskusi kode yang memiliki output yang tidak berdasarkan sesuai urutan kode , tetapi berdasarkan waktu proses.
+- **Asynchronous** adalah cara mengekseskusi kode yang memiliki output yang tidak berdasarkan sesuai urutan kode , tetapi berdasarkan waktu proses.
 Contoh:
 
 ```
