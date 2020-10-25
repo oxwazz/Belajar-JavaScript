@@ -3,7 +3,7 @@
 ### Synchronous dan Asynchronous
 Dalam dunia programming istilah tersebut digunakan untuk membedakan cara mengeksekusi perintah dalam kode.
 
-1. **Synchronous** adalah cara mengeksekusi kode dengan cara mengurutkan.
+1. **Synchronous** adalah cara mengeksekusi perintah sesuai dengan urutan dalam kode.
 Contoh:
 
 ```
@@ -21,7 +21,7 @@ Coder
 
 Output dari kode diatas dijalankan dengan sesusai urutan, perintah kode tersebut dapat dijalankan setelah perintah sebelumnya selesai. Hal ini dapat disebut sebagai proses **Synchronous** atau teknik **blocking**.
 
-2. **Asynchronous** adalah cara mengekseskusi kode yang memiliki output yang tidak berdasarkan sesuai urutan kode , tetapi berdasarkan waktu proses.
+2. **Asynchronous** adalah cara mengekseskusi perintah yang memiliki output yang tidak berdasarkan sesuai urutan kode , tetapi berdasarkan waktu proses.
 Contoh:
 
 ```
