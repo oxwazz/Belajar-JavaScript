@@ -11,12 +11,12 @@ console.log('Hello')
 console.log('Javascript')
 console.log('Coder')
 
-/*
+/*----------
 Output :
 Hello!
 Javascipt
 Coder
-*/
+----------*/
 ```
 
 Output dari kode diatas dijalankan dengan sesusai urutan, perintah kode tersebut dapat dijalankan setelah perintah sebelumnya selesai. Hal ini dapat disebut sebagai proses **Synchronous** atau teknik **blocking**.
@@ -26,10 +26,10 @@ Contoh:
 
 ```
 console.log('Hello');
-setTimeout(() => { console.log('Javascript')},100) // tunda selama 100 miliseconds
+setTimeout(() => { console.log('Javascript') }, 100) // tunda selama 100 miliseconds
 console.log('Coder');
 
-/* ----------
+/*----------
 Output :
 Hello!
 Coder
